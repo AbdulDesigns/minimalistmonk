@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/minimalistmonkweb/static/css/main.5b1b79dd.css",
-    "main.js": "/minimalistmonkweb/static/js/main.648a3b72.js",
-    "static/media/img2.svg": "/minimalistmonkweb/static/media/img2.1bbbcc412315db45308c3e4a40b0894a.svg",
-    "static/media/s4.jpg": "/minimalistmonkweb/static/media/s4.3bf8124665dc8b4bae7b.jpg",
-    "static/media/img3.svg": "/minimalistmonkweb/static/media/img3.2f50d372e09023dba35180a91b95d389.svg",
-    "static/media/s3.jpg": "/minimalistmonkweb/static/media/s3.5ec61def43ed94caee7c.jpg",
-    "static/media/s2.jpg": "/minimalistmonkweb/static/media/s2.7ef0f687ba2e957476e9.jpg",
-    "static/media/s1.jpg": "/minimalistmonkweb/static/media/s1.059a34c92dfea086bd73.jpg",
-    "static/media/s5.jpg": "/minimalistmonkweb/static/media/s5.4e69526f97db7fb43622.jpg",
-    "static/media/s.jpg": "/minimalistmonkweb/static/media/s.72de0eda0a528a537c40.jpg",
-    "index.html": "/minimalistmonkweb/index.html",
-    "main.5b1b79dd.css.map": "/minimalistmonkweb/static/css/main.5b1b79dd.css.map",
-    "main.648a3b72.js.map": "/minimalistmonkweb/static/js/main.648a3b72.js.map"
+    "main.css": "/minimalistmonk/static/css/main.5b1b79dd.css",
+    "main.js": "/minimalistmonk/static/js/main.49edf4a8.js",
+    "static/media/img2.svg": "/minimalistmonk/static/media/img2.1bbbcc412315db45308c3e4a40b0894a.svg",
+    "static/media/s4.jpg": "/minimalistmonk/static/media/s4.3bf8124665dc8b4bae7b.jpg",
+    "static/media/img3.svg": "/minimalistmonk/static/media/img3.2f50d372e09023dba35180a91b95d389.svg",
+    "static/media/s3.jpg": "/minimalistmonk/static/media/s3.5ec61def43ed94caee7c.jpg",
+    "static/media/s2.jpg": "/minimalistmonk/static/media/s2.7ef0f687ba2e957476e9.jpg",
+    "static/media/s1.jpg": "/minimalistmonk/static/media/s1.059a34c92dfea086bd73.jpg",
+    "static/media/s5.jpg": "/minimalistmonk/static/media/s5.4e69526f97db7fb43622.jpg",
+    "static/media/s.jpg": "/minimalistmonk/static/media/s.72de0eda0a528a537c40.jpg",
+    "index.html": "/minimalistmonk/index.html",
+    "main.5b1b79dd.css.map": "/minimalistmonk/static/css/main.5b1b79dd.css.map",
+    "main.49edf4a8.js.map": "/minimalistmonk/static/js/main.49edf4a8.js.map"
   },
   "entrypoints": [
     "static/css/main.5b1b79dd.css",
-    "static/js/main.648a3b72.js"
+    "static/js/main.49edf4a8.js"
   ]
 }
