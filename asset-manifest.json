@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/minimalistmonk/static/css/main.5b1b79dd.css",
-    "main.js": "/minimalistmonk/static/js/main.9c559abb.js",
+    "main.js": "/minimalistmonk/static/js/main.28aaacc6.js",
     "static/media/img2.svg": "/minimalistmonk/static/media/img2.1bbbcc412315db45308c3e4a40b0894a.svg",
     "static/media/s4.jpg": "/minimalistmonk/static/media/s4.3bf8124665dc8b4bae7b.jpg",
     "static/media/img3.svg": "/minimalistmonk/static/media/img3.2f50d372e09023dba35180a91b95d389.svg",
@@ -12,10 +12,10 @@
     "static/media/s.jpg": "/minimalistmonk/static/media/s.72de0eda0a528a537c40.jpg",
     "index.html": "/minimalistmonk/index.html",
     "main.5b1b79dd.css.map": "/minimalistmonk/static/css/main.5b1b79dd.css.map",
-    "main.9c559abb.js.map": "/minimalistmonk/static/js/main.9c559abb.js.map"
+    "main.28aaacc6.js.map": "/minimalistmonk/static/js/main.28aaacc6.js.map"
   },
   "entrypoints": [
     "static/css/main.5b1b79dd.css",
-    "static/js/main.9c559abb.js"
+    "static/js/main.28aaacc6.js"
   ]
 }
